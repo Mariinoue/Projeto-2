@@ -6,4 +6,4 @@ let kmPercorridoCarro = 100
 let diasCarroAlugado =5
 let preçoPagar =(kmPercorridoCarro*0.15)+(diasCarroAlugado*60.00)
 
-console.log(preçoPagar)
+console.log(`O valor total do serviço de aluguel do carro é R$${preçoPagar}.`)

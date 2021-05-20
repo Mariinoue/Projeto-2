@@ -8,3 +8,4 @@ Uso de operador de comparação;
 Uso de operador lógico;
 Uso de mod;
 Uso de condicional (if / else);
+Uso de condicional (switch);

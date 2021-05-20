@@ -5,4 +5,4 @@ const numero2= 9
 const numero3= 30
 
 let media3numeros = (numero1+numero2+numero3)/3
-console.log(media3numeros)
+console.log(`A média é ${media3numeros}.`)

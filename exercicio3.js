@@ -5,4 +5,4 @@ let valorJantar= 60
 let taxaGarçon = valorJantar*(10/100)
 let valorTotal= taxaGarçon+valorJantar
 
-console.log(valorTotal)
+console.log(`O valor total da refeição é R$${valorTotal}`)

@@ -4,4 +4,4 @@ let distanciaPercorrerKm = 100
 let velocidadeMedia = 50
 let tempoViagemCarro = distanciaPercorrerKm/velocidadeMedia;
 
-console.log(tempoViagemCarro);
+console.log(`São ${tempoViagemCarro} horas de viagem.`);

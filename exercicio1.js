@@ -4,4 +4,4 @@ let precoMercadoria = 100
 let descontoDaMercadoria = (20/100)
 let precoPagar= descontoDaMercadoria*precoMercadoria
 
-console.log(precoPagar)
+console.log(`O preço a pagar é R$${precoPagar}.`)

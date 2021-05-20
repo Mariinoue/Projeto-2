@@ -3,7 +3,7 @@
 let entrada= 15
 
 if(entrada%2===0){
-    console.log('Numero Par')
+    console.log(`${entrada} é número Par`)
 }else{
-    console.log('Numero impar')
+    console.log(`${entrada} é número Impar`)
 }
